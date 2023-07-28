@@ -1,0 +1,10 @@
+/* 
+  DatabaseManager.strings
+  CoreDataDemo
+
+  Created by Ankit Verma on 27/07/23.
+  
+*/
+
+"persistent-container-name" = "CoreDataDemo";
+"unresolved-error" = "Unresolved Error: %@";

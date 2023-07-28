@@ -1,0 +1,18 @@
+/* 
+  FriendsList.strings
+  CoreDataDemo
+
+  Created by Ankit Verma on 26/07/23.
+  
+*/
+
+"navigation-item-title" = "Friend List";
+"add-friend-alert-title" = "Add Friend";
+"add-friend-alert-message" = "Enter name of friend";
+"add-friend-alert-save" = "Save";
+"add-friend-alert-cancel" = "Cancel";
+"edit-friend-alert-title" = "Edit Friend";
+"edit-friend-alert-message" = "Enter name of friend";
+"edit-friend-alert-save" = "Save";
+"edit-friend-alert-cancel" = "Cancel";
+"delete-friend-action-title" = "Remove friend";

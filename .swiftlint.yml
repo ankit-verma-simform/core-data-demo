@@ -1,0 +1,3 @@
+excluded:
+  - CoreDataDemo/R.generated.swift
+  - Pods
